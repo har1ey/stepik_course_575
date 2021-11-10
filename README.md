@@ -1,2 +1,5 @@
-# stepik_course_575
-Автоматизация тестирования с помощью Selenium и Python
+# Stepik курс: 
+## [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575/)
+
+Репозиторий для оценки выполнения домашнего задания темы
+[ Лирическое отступление про Git](https://stepik.org/lesson/187065/step/11)
